@@ -4,14 +4,14 @@
  * 
  * @param instanceName 		name of the instance (form name) (Required)
  * @param instanceValue 	value of the instance (Required)
- * @param baseURL			sets the baseURL which determines which folders to manage
- * @param jsURL				sets teh jsURL for where the CKEditor and CKFinder folders are stored
- * @param height			sets the height of the instance (px or %)
- * @param width				sets the width of the instance (px or %)
- * @param toolbarSet		sets the toolbarSet to use (you can customize any number of toolbarSets below)
- * @param contentCSS		sets the CSS that should be applied to the instance's content
- * @param type				flag, set to desired display (CKEditor, popup, CKFinder)
- * @param addBtn			href link to the add button for type=popup
+ * @param baseURL 			sets the baseURL which determines which folders to manage
+ * @param jsURL 			sets the jsURL for where the CKEditor and CKFinder folders are stored
+ * @param height 			sets the height of the instance (px or %)
+ * @param width 			sets the width of the instance (px or %)
+ * @param toolbarSet 		sets the toolbarSet to use (you can customize any number of toolbarSets below)
+ * @param contentCSS 		sets the CSS that should be applied to the instance's content
+ * @param type 				flag, set to desired display (CKEditor, popup, CKFinder)
+ * @param addBtn 			href link to the add button for type=popup
  * 
  * @author Ryan Smith (rsmith@eomedia.com) 
  * @version 1, July 2013 

@@ -3,6 +3,9 @@
 
 A ColdFusion wrapper for CKEditor & CKFinder, simplifies usage of editor/finder by wrapping customization outside of the editor for easier updates.
 
+Utilizing cfCKEditor allows you to control 99% of the configurations externally to the editors.  When you want to update the editors to a new version
+you can simply download and replace without the need to redo a lot of configuration files.   
+
 ```
 ##Dual licensed under the MIT and GPL licenses:
 * http://www.opensource.org/licenses/mit-license.php
